@@ -1,5 +1,5 @@
 ## How to play
-To start the game, simply run the main.py file. You can do this by opening a terminal window and navigating to the directory where the game is located, then typing python main.py.
+To start the game, simply run the ballon.py file. You can do this by opening a terminal window and navigating to the directory where the game is located, then typing python main.py.
 
 Once the game has started, use the arrow keys to move your aim up and down, and press space to shoot. Keep an eye on the balloon as it floats across the screen, and try to pop it as many times as you can.
 
